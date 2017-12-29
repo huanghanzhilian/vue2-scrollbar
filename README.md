@@ -1,4 +1,4 @@
-# Vue 2  Scrollbar
+# Vue 2  Scrollbar huang
 
 The Simplest Scroll Area Component with custom scrollbar for [Vue 2](https://vuejs.or). It's based on [react-scrollbar](https://github.com/BosNaufal/react-scrollbar). All animation, Height and Width are pure CSS, So it's TOTALLY **CUSTOMIZABLE** and **RESPONSIVE**! YEAH!.
 
